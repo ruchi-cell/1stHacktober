@@ -1,7 +1,6 @@
-#include<*asur.h>
+#include<->
 
-void pokhi(){
-  int love = 0;
-  love = love + (10^10)^10;
-  return love;
+void main(){
+  printf(":-(");
+  return -1;
 }
