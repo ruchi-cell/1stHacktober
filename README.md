@@ -1,3 +1,3 @@
-# Hacktober2020
+# 1stHacktober
 
 # Just for a T-Shirt!
