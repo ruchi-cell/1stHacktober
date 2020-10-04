@@ -1,6 +1,6 @@
 #include<->
 
 void main(){
-  printf(":-(");
+  printf("Not pokh.. It's pokhi");
   return -1;
 }
