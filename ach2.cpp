@@ -15,5 +15,7 @@ int main()
     for(auto& it:pairs)
     {
         cout<<it.first<<it.second<<endl;
+        
+        
     }
 }
